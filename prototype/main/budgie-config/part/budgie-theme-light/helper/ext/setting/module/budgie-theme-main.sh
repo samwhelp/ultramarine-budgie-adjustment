@@ -142,8 +142,8 @@ budgie_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.wm.preferences theme 'Materia-light'"
-	gsettings set org.gnome.desktop.wm.preferences theme 'Materia-light'
+	util_error_echo "gsettings set org.gnome.desktop.wm.preferences theme 'Fluent-teal-Light-compact'"
+	gsettings set org.gnome.desktop.wm.preferences theme 'Fluent-teal-Light-compact'
 
 
 
@@ -168,13 +168,13 @@ budgie_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Materia-light'"
-	gsettings set org.gnome.desktop.interface gtk-theme 'Materia-light'
+	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Fluent-teal-Light-compact'"
+	gsettings set org.gnome.desktop.interface gtk-theme 'Fluent-teal-Light-compact'
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Light'"
-	gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Light'
+	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Fluent-light'"
+	gsettings set org.gnome.desktop.interface icon-theme 'Fluent-light'
 
 
 	util_error_echo

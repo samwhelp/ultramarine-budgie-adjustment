@@ -1,15 +1,15 @@
 
 
 [org.gnome.desktop.wm.preferences]
-theme='Materia-light'
+theme='Fluent-teal-Light-compact'
 
 
 [org.gnome.desktop.interface]
 cursor-theme='Adwaita'
 cursor-size=24
 gtk-key-theme='Default'
-gtk-theme='Materia-light'
-icon-theme='Papirus-Light'
+gtk-theme='Fluent-teal-Light-compact'
+icon-theme='Fluent-light'
 color-scheme='default'
 gtk-color-scheme=''
 
