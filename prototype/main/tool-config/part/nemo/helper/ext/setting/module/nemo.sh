@@ -144,6 +144,13 @@ nemo_prototype_install () {
 nemo_settings_set_all () {
 
 
+
+
+	util_error_echo
+	util_error_echo "gsettings set org.nemo.preferences show-hidden-files true"
+	gsettings set org.nemo.preferences show-hidden-files true
+
+
 	util_error_echo
 	util_error_echo "gsettings set org.nemo.preferences ignore-view-metadata true"
 	gsettings set org.nemo.preferences ignore-view-metadata true
@@ -157,6 +164,34 @@ nemo_settings_set_all () {
 	util_error_echo
 	util_error_echo "gsettings set org.nemo.desktop font 'Sans 12'"
 	gsettings set org.nemo.desktop font 'Sans 12'
+
+
+
+
+
+
+
+
+	return 0
+
+
+
+
+
+
+
+
+	util_error_echo
+	util_error_echo "gsettings set org.gtk.Settings.FileChooser show-hidden true"
+	gsettings set org.gtk.Settings.FileChooser show-hidden true
+
+
+	util_error_echo
+	util_error_echo "gsettings set org.gtk.gtk4.Settings.FileChooser show-hidden true"
+	gsettings set org.gtk.gtk4.Settings.FileChooser show-hidden true
+
+
+
 
 
 
