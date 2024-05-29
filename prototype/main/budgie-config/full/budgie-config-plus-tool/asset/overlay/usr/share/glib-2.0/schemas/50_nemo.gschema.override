@@ -1,0 +1,6 @@
+
+
+[org.nemo.preferences]
+ignore-view-metadata=true
+default-folder-viewer='list-view'
+font='Sans 12'
