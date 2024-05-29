@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Ultramarine Budgie](https://github.com/samwhelp/ultramarine-budgie-adjustment/tree/main/prototype/main) |
+| [Ultramarine Budgie](https://github.com/samwhelp/ultramarine-budgie-adjustment/tree/main/prototype/main/budgie-config/full/budgie-config-plus-theme-dark) |
 
 
 
