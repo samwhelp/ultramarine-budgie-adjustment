@@ -268,13 +268,13 @@ gnome_terminal_config_for_profile () {
 	#util_error_echo "gsettings set \"${path}\" use-theme-transparency false"
 	#gsettings set "${path}" use-theme-transparency false
 
-	#util_error_echo
-	#util_error_echo "gsettings set \"${path}\" use-transparent-background true"
-	#gsettings set "${path}" use-transparent-background true
+	util_error_echo
+	util_error_echo "gsettings set \"${path}\" use-transparent-background true"
+	gsettings set "${path}" use-transparent-background true
 
-	#util_error_echo
-	#util_error_echo "gsettings set \"${path}\" background-transparency-percent 15"
-	#gsettings set "${path}" background-transparency-percent 15
+	util_error_echo
+	util_error_echo "gsettings set \"${path}\" background-transparency-percent 15"
+	gsettings set "${path}" background-transparency-percent 15
 
 
 	#util_error_echo

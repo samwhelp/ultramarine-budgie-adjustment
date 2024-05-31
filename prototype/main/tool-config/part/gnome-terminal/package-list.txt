@@ -20,4 +20,4 @@ gnome-terminal
 ## ## Package / dconf
 ##
 
-dconf-cli
+dconf
