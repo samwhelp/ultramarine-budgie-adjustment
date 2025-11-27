@@ -38,11 +38,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [Ultramarine Adjustment](https://samwhelp.github.io/ultramarine-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-adjustment) |
-| [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Budgie Adjustment](https://samwhelp.github.io/budgie-adjustment/) | [GitHub](https://github.com/samwhelp/budgie-adjustment) |
+| [Fedora Budgie Adjustment](https://samwhelp.github.io/fedora-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-budgie-adjustment) |
+| [Ubuntu Budgie Adjustment](https://samwhelp.github.io/ubuntu-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-budgie-adjustment) |
+| [Debian Budgie Adjustment](https://samwhelp.github.io/debian-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/debian-budgie-adjustment) |
+| [Archlinux Budgie Adjustment](https://samwhelp.github.io/archlinux-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-budgie-adjustment) |
 
 
 
